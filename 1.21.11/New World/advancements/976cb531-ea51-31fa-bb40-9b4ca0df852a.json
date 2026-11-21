@@ -1,0 +1,23 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-11-21 22:41:43 +0545"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2026-11-21 22:42:38 +0545",
+      "minecraft:dark_forest": "2026-11-21 22:42:44 +0545",
+      "minecraft:forest": "2026-11-21 22:42:17 +0545",
+      "minecraft:sparse_jungle": "2026-11-21 22:42:22 +0545",
+      "minecraft:jungle": "2026-11-21 22:43:35 +0545",
+      "minecraft:river": "2026-11-21 22:42:15 +0545",
+      "minecraft:birch_forest": "2026-11-21 22:42:54 +0545",
+      "minecraft:savanna": "2026-11-21 22:41:44 +0545",
+      "minecraft:plains": "2026-11-21 22:42:12 +0545"
+    },
+    "done": false
+  },
+  "DataVersion": 4671
+}
