@@ -1,0 +1,19 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2026-11-23 16:52:25 +0545",
+      "minecraft:forest": "2026-11-23 16:52:47 +0545",
+      "minecraft:taiga": "2026-11-23 16:51:52 +0545",
+      "minecraft:river": "2026-11-23 16:52:23 +0545",
+      "minecraft:old_growth_spruce_taiga": "2026-11-23 16:51:30 +0545"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-11-23 16:51:29 +0545"
+    },
+    "done": true
+  },
+  "DataVersion": 5023
+}
